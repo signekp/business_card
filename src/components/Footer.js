@@ -5,7 +5,6 @@ import Instagram from '../image/instagram.svg'
 import Github from '../image/github.svg'
 
 
-
 export default function Footer() {
     return (
         <div className="footer-content">
